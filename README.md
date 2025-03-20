@@ -12,4 +12,4 @@ This is a simple **QR Code Generator** built using **HTML, CSS, and JavaScript**
 ### 1️⃣ **Clone the Repository**
 ```sh
 git clone https://github.com/KshitijNegii/qr-code.git
-cd <your-repo-name>
+cd qr-code
